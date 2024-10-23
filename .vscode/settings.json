@@ -1,0 +1,24 @@
+{
+  "cSpell.words": [
+    "Abia",
+    "ghumapps",
+    "microtask",
+    "myapp",
+    "rxdart",
+    "ryanheise",
+    "screenutil",
+    "vsync"
+  ],
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/*.freezed.dart": true,
+    "**/*.g.dart": true,
+    "**/.gitkeep": false
+  },
+  "explorerExclude.backup": {}
+}
